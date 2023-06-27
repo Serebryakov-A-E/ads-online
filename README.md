@@ -1,4 +1,4 @@
-# ads-online-resale-shop
+# ads-online
 ## Основная информация:
 Бэк web-сервиса по перепродаже вещей на Java Spring Boot к предоставленному [FrontEnd](https://github.com/BizinMitya/front-react-avito) по имеющейся [спецификации](https://github.com/BizinMitya/front-react-avito/blob/v1.13/openapi.yaml).
 
