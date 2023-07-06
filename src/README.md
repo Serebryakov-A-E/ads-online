@@ -1,8 +1,3 @@
-##### <img src="https://my.sky.pro/5987ea2b7acbe5e5379157f8c4f0fb7f.svg" width="150" height="50"/> 
-***
-
-## Дипломный проект команды №4 по разработке бэкенд-части сайта по перепродаже вещей.
-
 ## Основная информация:
 Бэк web-сервиса по перепродаже вещей на Java Spring Boot к предоставленному [FrontEnd](https://github.com/BizinMitya/front-react-avito) по имеющейся [спецификации](https://github.com/BizinMitya/front-react-avito/blob/v1.13/openapi.yaml).
 
