@@ -15,6 +15,7 @@ import java.util.Objects;
 
 
 /**
+ * Сущность пользователя
  * @author Loginova Viktoria (Логинова Виктория)
  **/
 @Data

@@ -1,12 +1,14 @@
 package me.don1ns.adsonlineresaleshop.entity;
 
 import javax.persistence.*;
+
 import lombok.*;
 
 import java.time.LocalDateTime;
 
 /**
-  * @author Loginova Viktoria (Логинова Виктория)
+ * Сущность объявления
+ * @author Loginova Viktoria (Логинова Виктория)
  **/
 @Data
 @Entity

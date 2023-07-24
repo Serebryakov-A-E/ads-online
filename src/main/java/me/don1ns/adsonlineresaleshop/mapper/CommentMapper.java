@@ -9,6 +9,7 @@ import org.mapstruct.Named;
 
 /**
  * @author Алексей Серебряков
+ * Маппер для преобразования сущности комментария в ДТО и наоборот
  **/
 @Mapper(componentModel = "spring")
 public interface CommentMapper {

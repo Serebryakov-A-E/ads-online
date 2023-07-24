@@ -1,7 +1,7 @@
 package me.don1ns.adsonlineresaleshop.DTO;
 import lombok.Data;
 /**
- * @author Артем Королёв
+ * ДТО с данными пользователя при авторизации
  **/
 @Data
 public class LoginReqDTO {

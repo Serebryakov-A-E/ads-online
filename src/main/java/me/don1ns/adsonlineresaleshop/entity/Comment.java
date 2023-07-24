@@ -1,9 +1,11 @@
 package me.don1ns.adsonlineresaleshop.entity;
 
 import javax.persistence.*;
+
 import lombok.*;
 
 /**
+ * Сущность комментария объявления
  * @author Loginova Viktoria (Логинова Виктория)
  **/
 @Data

@@ -10,6 +10,7 @@ import org.mapstruct.Named;
 
 /**
  * @author Алексей Серебряков
+ * Маппер для преобразования сущности объявления в ДТО и наоборот
  **/
 @Mapper(componentModel = "spring")
 public interface AdsMapper {

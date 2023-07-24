@@ -4,6 +4,7 @@ import javax.persistence.*;
 import lombok.*;
 
 /**
+ * Сущность изображения для объявлений и аваратки пользователей
  * @author Loginova Viktoria (Логинова Виктория)
  **/
 @Entity

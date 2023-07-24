@@ -4,7 +4,7 @@ import java.util.Collection;
 import java.util.List;
 
 /**
- * @author Артем Королёв
+ * Обертка для списка объявлений
  **/
 @Data
 public class ResponseWrapperAds<T> {
